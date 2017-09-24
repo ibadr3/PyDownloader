@@ -1,0 +1,8 @@
+ ÕÊÌ· „‰ Py «Ì exe 
+--------------------------------
+pip install pyinstaller
+pyinstaller file.py
+pyinstaller --onefile --windowed file.py
+pyinstaller --onefile --windowed --icon=Icon.ico file.py
+Category
+Science & Technology
